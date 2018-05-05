@@ -1,7 +1,7 @@
 ## Thank you JSON
 
-Just add script to your document :)
+Just add this script to your document :)
 
 ```js
-<script src="thank-you-json.js"></script>
+<script src="thank-you-json.min.js"></script>
 ```
